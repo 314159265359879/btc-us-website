@@ -1,6 +1,6 @@
 {
-  "name": "btc.us",
-  "description": "btc.us",
+  "name": "sleepy-mahavira-9b8f8e.netlify.app",
+  "description": "sleepy-mahavira-9b8f8e.netlify.app",
   "version": "0.0.2",
   "scripts": {
     "dev": "sapper dev --no-hot",
