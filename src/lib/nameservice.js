@@ -22,8 +22,8 @@ import {payment_api_call, fetch_zonefile, random_bytes} from './utils';
 import {stx_address,stacks_session,stacks_connect_options} from '../session';
 
 export const DOMAIN_CHARACTER_REGEX = /[^0-9a-z_+-]/;
-export const DOMAIN_VALIDITY_REGEX = /[0-9a-z_+-]{3,32}\.btc/;
-export const DOMAIN_NAMESPACE = 'btc';
+export const DOMAIN_VALIDITY_REGEX = /[0-9a-z_+-]{3,32}\.stx/;
+export const DOMAIN_NAMESPACE = 'stx';
 
 export const DOMAIN_MIN_LENGTH = 3;
 export const DOMAIN_MAX_LENGTH = 32;
